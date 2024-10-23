@@ -14,24 +14,35 @@ SETTING_FALSE = 'false'
 # Defaults
 # these can be overridden via the config file
 DEFAULT_WELCOME_MESSAGE = '''
-Welcome to Gavel.
+## Welcome to Gavel!
 
-**Please read this important message carefully before continuing.**
+We're excited to have you join us as a first-round judge for our 2024 "Reimagining User Experience" hackathon!
 
-Gavel is a fully automated expo judging system that both tells you where to go
-and collects your votes.
+**Here's how Gavel works:**
 
-The system is based on the model of pairwise comparison. You'll start off by
-looking at a single submission, and then for every submission after that,
-you'll decide whether it's better or worse than the one you looked at
-**immediately beforehand**.
+*   **Pairwise Comparisons:** You'll be shown two submissions at a time and asked to choose which one is better.
+*   **Can't Find a Submission?** If you encounter any issues locating a submission, use the 'Skip' button. But please try your best to find it first!
+*   **Votes are Final:** Think carefully before you vote, as you won't be able to change your decision.
 
-If at any point, you can't find a particular submission, you can click the
-'Skip' button and you will be assigned a new project. **Please don't skip
-unless absolutely necessary.**
+**Important Information:**
 
-Gavel makes it really simple for you to submit votes, but please think hard
-before you vote. **Once you make a decision, you can't take it back**.
+*   **Judging Deadline:**
+
+    *   Pacific Time: 7:00 AM on October 24th
+    *   Eastern Time: 10:00 AM on October 24th
+    *   Dublin: 4:00 PM on October 24th
+
+*   **Time Commitment:** Aim to spend 60-90 minutes watching the videos, but don't feel pressured to watch them all. Every vote counts!
+
+*   **Gavel Keeps Going:** Gavel will continue to offer you videos to judge. Feel free to watch as many as your time allows.
+
+**Need Help?**
+
+*   **Video Tutorial:** [Link to Gavel video tutorial](https://drive.google.com/file/d/1b9ka6aVZt87Qhos3FseaIWXsIL2LUfEQ/view)
+*   **FAQs:** [Link to FAQs](https://sites.google.com/d/1PJ9sf4zKl0lhc2CAkZxHBrriWvp9zftO/p/1h05KZPhuikIPuBO9_OTqaQuLU1E903UV/edit?authuser=1)
+*   **Slack Channel:** #stu-2024-hackathon-judges
+
+Thank you for your time and support! We appreciate you helping us make this hackathon a success!
 '''.strip()
 
 DEFAULT_EMAIL_SUBJECT = 'Welcome to Gavel!'

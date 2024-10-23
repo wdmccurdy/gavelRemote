@@ -16,7 +16,7 @@ SETTING_FALSE = 'false'
 DEFAULT_WELCOME_MESSAGE = '''
 ## Welcome to Gavel!
 
-We're excited to have you join us as a first-round judge for our 2024 "Reimagining User Experience" hackathon!
+We're excited to have you join us as a People's Choice judge for our 2024 "Reimagining User Experience" hackathon!
 
 **Here's how Gavel works:**
 
@@ -39,7 +39,6 @@ We're excited to have you join us as a first-round judge for our 2024 "Reimagini
 
 *   **Video Tutorial:** [Link to Gavel video tutorial](https://drive.google.com/file/d/1b9ka6aVZt87Qhos3FseaIWXsIL2LUfEQ/view)
 *   **FAQs:** [Link to FAQs](https://sites.google.com/d/1PJ9sf4zKl0lhc2CAkZxHBrriWvp9zftO/p/1h05KZPhuikIPuBO9_OTqaQuLU1E903UV/edit?authuser=1)
-*   **Slack Channel:** #stu-2024-hackathon-judges
 
 Thank you for your time and support! We appreciate you helping us make this hackathon a success!
 '''.strip()

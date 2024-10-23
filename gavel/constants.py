@@ -21,7 +21,6 @@ We're excited to have you join us as a first-round judge for our 2024 "Reimagini
 **Here's how Gavel works:**
 
 *   **Pairwise Comparisons:** You'll be shown two submissions at a time and asked to choose which one is better.
-*   **Can't Find a Submission?** If you encounter any issues locating a submission, use the 'Skip' button. But please try your best to find it first!
 *   **Votes are Final:** Think carefully before you vote, as you won't be able to change your decision.
 
 **Important Information:**
